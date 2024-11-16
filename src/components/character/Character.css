@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+p{
+    background-color: green;
+}
+div{
+    width: 400px;
+    height: 600px;
+    background-color: blue;
+}
+h2{
+    color: red;
+}
+ul{
+    color: black;
+}
+.Content{
+    width: 1260px;
+    height: 3000px;
+    background-color: lightgray;
+}
